@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-2-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-3-green?style=for-the-badge)
 
 ---
 
@@ -11,11 +11,11 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 2 |
-| Assets Managed | 4 |
+| Projects Completed | 3 |
+| Assets Managed | 8 |
 | Risks Assessed | 9 |
-| Controls Implemented | 11 |
-| Evidence Screenshots | 11 |
+| Controls Implemented | 23 |
+| Evidence Screenshots | 6 |
 
 ---
 
@@ -37,8 +37,6 @@
 - Developed 5 risk treatment plans with documented mitigation strategies, acceptance criteria, and residual risk calculations
 - Completed ISO 27001 risk assessment documentation supporting certification readiness for cloud infrastructure
 
-**Evidence:** 5 screenshot(s) available in `/evidence/iso-risk-assessment/` folder
-
 ---
 
 ### FinSecure Banking
@@ -57,7 +55,25 @@
 - Documented 3 compliance gaps and coordinated remediation efforts with 100% resolution rate
 - Established ongoing vendor monitoring program with quarterly security assessments and contract compliance reviews
 
-**Evidence:** 6 screenshot(s) available in `/evidence/vendor-tprm/` folder
+---
+
+### DataFlow Analytics
+**SOC 2 Type II Audit Preparation**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![SOC 2](https://img.shields.io/badge/-SOC%202-informational) ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 4 | 0 | 12 | 4/4 |
+
+**Key Accomplishments:**
+- Documented 12 Trust Services Criteria controls for SOC 2 Type II audit with 50% operating effectiveness
+- Cataloged 4 in-scope systems and infrastructure components for SOC 2 boundary definition
+- Managed evidence collection and organization of 5 audit artifacts supporting Trust Services Criteria
+- Executed 5 control testing procedures achieving 100% pass rate
+- Coordinated successful SOC 2 Type II audit preparation ensuring all Trust Services Criteria requirements were addressed
+
+**Evidence:** 6 screenshot(s) available in `/evidence/soc2-audit/` folder
 
 ---
 
@@ -89,11 +105,10 @@
 grc-portfolio/
 ├── README.md          # This file
 ├── evidence/          # Screenshots and documentation
-│   └── iso-risk-assessment/
-│   └── vendor-tprm/
+│   └── soc2-audit/
 └── portfolio.html     # Standalone portfolio page
 ```
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/7/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/8/2026*
