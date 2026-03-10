@@ -1,4 +1,4 @@
-# 🛡️ GRC Professional
+# 🛡️ GRC Professional Portfolio
 ### GRC Professional
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
