@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-4-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-5-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 4 |
-| Assets Managed | 13 |
+| Projects Completed | 5 |
+| Assets Managed | 17 |
 | Risks Assessed | 15 |
-| Controls Implemented | 33 |
+| Controls Implemented | 41 |
 
 ---
 
@@ -92,6 +92,24 @@
 
 ---
 
+### HealthTech Systems
+**Incident Response Program Development**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![HIPAA](https://img.shields.io/badge/-HIPAA-informational) ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 4 | 0 | 8 | 4/4 |
+
+**Key Accomplishments:**
+- Developed 4 incident response playbooks covering security, availability, and data breach scenarios
+- Implemented 8 detection, response, and recovery controls aligned with HIPAA Security Rule requirements
+- Identified 4 critical systems containing PHI requiring enhanced monitoring and rapid response capabilities
+- Created 5 incident response tasks defining roles, escalation procedures, and communication protocols
+- Established incident response program with HIPAA breach notification procedures and post-incident review process
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -125,4 +143,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/9/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/10/2026*
