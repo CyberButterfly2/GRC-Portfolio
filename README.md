@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-5-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-6-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 5 |
-| Assets Managed | 17 |
-| Risks Assessed | 15 |
-| Controls Implemented | 41 |
+| Projects Completed | 6 |
+| Assets Managed | 23 |
+| Risks Assessed | 19 |
+| Controls Implemented | 51 |
 
 ---
 
@@ -110,6 +110,24 @@
 
 ---
 
+### CloudNative Corp
+**AWS Security Assessment and Hardening**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![CIS Controls](https://img.shields.io/badge/-CIS%20Controls-informational) ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 6 | 4 | 10 | 4/4 |
+
+**Key Accomplishments:**
+- Inventoried 6 AWS cloud assets including EC2, S3, RDS, and IAM configurations for CIS Benchmark assessment
+- Identified 5 security misconfigurations and vulnerabilities
+- Assessed 4 cloud-specific risks including data exposure, misconfiguration, and privilege escalation vectors
+- Implemented 10 CIS Benchmark controls for AWS hardening including encryption, logging, and network segmentation
+- Delivered cloud security assessment report with prioritized remediation roadmap and ongoing monitoring recommendations
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -143,4 +161,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/10/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/11/2026*
