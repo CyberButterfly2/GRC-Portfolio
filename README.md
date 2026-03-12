@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-6-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-7-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 6 |
-| Assets Managed | 23 |
-| Risks Assessed | 19 |
-| Controls Implemented | 51 |
+| Projects Completed | 7 |
+| Assets Managed | 28 |
+| Risks Assessed | 23 |
+| Controls Implemented | 59 |
 
 ---
 
@@ -128,6 +128,24 @@
 
 ---
 
+### CriticalOps Inc
+**Business Continuity & Disaster Recovery Planning**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![COBIT](https://img.shields.io/badge/-COBIT-informational) ![ISO 27001](https://img.shields.io/badge/-ISO%2027001-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 5 | 4 | 8 | 4/4 |
+
+**Key Accomplishments:**
+- Conducted Business Impact Analysis (BIA) for 5 critical systems defining RTO/RPO requirements
+- Assessed 4 business continuity risks including infrastructure failure, natural disaster, and cyber attack scenarios
+- Documented 8 BC/DR controls including backup procedures, failover mechanisms, and recovery runbooks
+- Planned and coordinated 4 tabletop exercises and disaster recovery tests validating plan effectiveness
+- Delivered comprehensive BC/DR program aligned with COBIT and ISO 22301 requirements for critical infrastructure protection
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -161,4 +179,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/11/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/12/2026*
