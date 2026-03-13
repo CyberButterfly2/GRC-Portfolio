@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-7-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-8-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 7 |
+| Projects Completed | 8 |
 | Assets Managed | 28 |
-| Risks Assessed | 23 |
-| Controls Implemented | 59 |
+| Risks Assessed | 28 |
+| Controls Implemented | 74 |
 
 ---
 
@@ -146,6 +146,24 @@
 
 ---
 
+### RegTech Solutions
+**Multi-Framework Compliance Gap Analysis**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![PCI DSS](https://img.shields.io/badge/-PCI%20DSS-informational) ![SOC 2](https://img.shields.io/badge/-SOC%202-informational) ![HIPAA](https://img.shields.io/badge/-HIPAA-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 0 | 5 | 15 | 4/4 |
+
+**Key Accomplishments:**
+- Assessed 15 controls across PCI DSS, SOC 2, and HIPAA frameworks creating unified control matrix
+- Identified 5 compliance gaps requiring remediation across multiple regulatory frameworks
+- Developed 5 remediation plans with prioritization based on risk severity and compliance deadlines
+- Scheduled 2 compliance audits coordinating evidence collection and stakeholder preparation
+- Completed multi-framework gap analysis enabling efficient compliance management across healthcare, finance, and payment processing requirements
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -179,4 +197,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/12/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/13/2026*
