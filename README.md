@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-8-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-9-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 8 |
-| Assets Managed | 28 |
-| Risks Assessed | 28 |
-| Controls Implemented | 74 |
+| Projects Completed | 9 |
+| Assets Managed | 34 |
+| Risks Assessed | 33 |
+| Controls Implemented | 86 |
 
 ---
 
@@ -164,6 +164,24 @@
 
 ---
 
+### SecureBank Digital
+**Zero Trust Architecture Implementation**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-informational) ![CIS Controls](https://img.shields.io/badge/-CIS%20Controls-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 6 | 5 | 12 | 4/4 |
+
+**Key Accomplishments:**
+- Mapped 6 critical assets identifying protect surfaces for Zero Trust Architecture implementation
+- Assessed 5 identity and access risks supporting "never trust, always verify" security model
+- Implemented 12 Zero Trust controls including microsegmentation, continuous verification, and least privilege access
+- Developed 4 identity-centric security policies governing authentication, authorization, and session management
+- Delivered Zero Trust Architecture roadmap aligned with NIST SP 800-207 and CIS Controls for modern security transformation
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -197,4 +215,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/13/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/14/2026*
