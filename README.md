@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-9-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-10-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 9 |
-| Assets Managed | 34 |
-| Risks Assessed | 33 |
-| Controls Implemented | 86 |
+| Projects Completed | 10 |
+| Assets Managed | 39 |
+| Risks Assessed | 39 |
+| Controls Implemented | 96 |
 
 ---
 
@@ -182,6 +182,22 @@
 
 ---
 
+### MindfulAI Labs
+**AI Governance & ISO 42001 Implementation**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![ISO 42001](https://img.shields.io/badge/-ISO%2042001-informational) ![NIST AI RMF](https://img.shields.io/badge/-NIST%20AI%20RMF-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 5 | 6 | 10 | 4/4 |
+
+**Key Accomplishments:**
+- Managed 5 assets for MindfulAI Labs GRC project
+- Assessed 6 risks across ISO 42001, NIST AI RMF frameworks
+- Implemented 10 security controls
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -215,4 +231,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/14/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/15/2026*
