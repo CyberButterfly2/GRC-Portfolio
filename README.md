@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-10-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-11-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 10 |
-| Assets Managed | 39 |
+| Projects Completed | 11 |
+| Assets Managed | 45 |
 | Risks Assessed | 39 |
-| Controls Implemented | 96 |
+| Controls Implemented | 110 |
 
 ---
 
@@ -198,6 +198,21 @@
 
 ---
 
+### GlobalParts Manufacturing
+**Supply Chain Security & CMMC Compliance**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![CMMC](https://img.shields.io/badge/-CMMC-informational) ![NIST 800-171](https://img.shields.io/badge/-NIST%20800-171-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 6 | 0 | 14 | 4/4 |
+
+**Key Accomplishments:**
+- Managed 6 assets for GlobalParts Manufacturing GRC project
+- Implemented 14 security controls
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -231,4 +246,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/15/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/16/2026*
