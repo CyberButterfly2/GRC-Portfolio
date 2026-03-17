@@ -3,7 +3,7 @@
 
 > A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
 
-![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-11-green?style=for-the-badge)
+![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-12-green?style=for-the-badge)
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Metric | Count |
 |--------|-------|
-| Projects Completed | 11 |
-| Assets Managed | 45 |
-| Risks Assessed | 39 |
-| Controls Implemented | 110 |
+| Projects Completed | 12 |
+| Assets Managed | 53 |
+| Risks Assessed | 44 |
+| Controls Implemented | 118 |
 
 ---
 
@@ -213,6 +213,22 @@
 
 ---
 
+### ConsumerFirst Retail
+**Global Privacy Program & CCPA/GDPR Compliance**
+
+![Progress](https://img.shields.io/badge/Progress-100%25-success) ![GDPR](https://img.shields.io/badge/-GDPR-informational) ![CCPA](https://img.shields.io/badge/-CCPA-informational) ![ISO 27701](https://img.shields.io/badge/-ISO%2027701-informational) 
+
+| Assets | Risks | Controls | Tasks |
+|--------|-------|----------|-------|
+| 8 | 5 | 8 | 4/4 |
+
+**Key Accomplishments:**
+- Managed 8 assets for ConsumerFirst Retail GRC project
+- Assessed 5 risks across GDPR, CCPA, ISO 27701 frameworks
+- Implemented 8 security controls
+
+---
+
 ## 🛠️ Skills & Frameworks
 
 ### Technical Skills
@@ -246,4 +262,4 @@ grc-portfolio/
 
 ---
 
-*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/16/2026*
+*Generated with [GRC Practice Lab](https://grcmadesimple.com) on 3/17/2026*
