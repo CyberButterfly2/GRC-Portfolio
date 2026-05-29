@@ -1,7 +1,6 @@
 # 🛡️ GRC Professional Portfolio
-### GRC Professional
-
-> 12 GRC projects across ISO 27001, SOC2, GDPR, HIPAA, PCI DSS & more.
+### GRC ProfessionalC
+> 12 GRC projects across ISO 27001, SOC2, GDPR, HIPAA, PCI DSS & more. These are simulated GRC projects completed through a structured practice lab environment, demonstrating applied knowledge of enterprise security frameworks.
 
 ![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-12-green?style=for-the-badge)
 
