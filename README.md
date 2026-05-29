@@ -1,7 +1,7 @@
 # 🛡️ GRC Professional Portfolio
 ### GRC Professional
 
-> A collection of Governance, Risk, and Compliance (GRC) projects demonstrating practical experience with enterprise security frameworks.
+> 12 GRC projects across ISO 27001, SOC2, GDPR, HIPAA, PCI DSS & more.
 
 ![GRC Portfolio](https://img.shields.io/badge/GRC-Portfolio-blue?style=for-the-badge) ![Projects](https://img.shields.io/badge/Projects-12-green?style=for-the-badge)
 
